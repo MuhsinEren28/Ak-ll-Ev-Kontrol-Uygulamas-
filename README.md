@@ -1,1 +1,1 @@
-# Ak-ll-Ev-Kontrol-Uygulamas-
+# Akıllı Ev Kontrol Uygulaması
